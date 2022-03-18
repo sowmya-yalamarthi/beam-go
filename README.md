@@ -5,7 +5,7 @@
 ### check your GO version
         go version
 ### The go mod init command creates a go.mod file to track your code's dependencies.
-        go mod init github.com/sowmya-yalamarthi/wordcount-beam-go
+        go mod init github.com/sowmya-yalamarthi/beam-go
 ### Get the SDK and the examples.
         go get -u github.com/apache/beam/sdks/v2/go/pkg/beam
 ### I have installed wordcount.
